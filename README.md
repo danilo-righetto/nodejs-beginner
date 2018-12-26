@@ -1,7 +1,7 @@
 # Curso: Node.js para Iniciantes
 O material desse repositório é fruto do curso `Node.js para iniciantes` do site [NODEBR](https://cursos.nodebr.org/).
 
-[Node.js Application]()
+[Node.js Application](https://github.com/danilo-righetto/nodejs-beginner)
 
 ## Author
 
